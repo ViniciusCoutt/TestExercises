@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditConsult", "CreditConsult\CreditConsult.csproj", "{B05CF9E6-9E6A-4CF0-B1B4-EE4B3BC14C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditConsult.Tests", "CreditConsult.Tests\CreditConsult.Tests.csproj", "{AA49F46F-B745-4F08-9A61-36D55D57B491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05CF9E6-9E6A-4CF0-B1B4-EE4B3BC14C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05CF9E6-9E6A-4CF0-B1B4-EE4B3BC14C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05CF9E6-9E6A-4CF0-B1B4-EE4B3BC14C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05CF9E6-9E6A-4CF0-B1B4-EE4B3BC14C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA49F46F-B745-4F08-9A61-36D55D57B491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA49F46F-B745-4F08-9A61-36D55D57B491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA49F46F-B745-4F08-9A61-36D55D57B491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA49F46F-B745-4F08-9A61-36D55D57B491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1A95CD-EB1E-4108-B241-99975FB9915D}
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,4 @@
-﻿using Xunit;
-
-namespace MyTests.GivenMyCalculator
+﻿namespace MyTests.GivenMyCalculator
 {
     public class ShipBusinessTest
     {

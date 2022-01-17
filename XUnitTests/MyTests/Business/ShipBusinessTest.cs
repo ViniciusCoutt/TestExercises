@@ -1,5 +1,4 @@
 ﻿using SistemaDeVendas.Business;
-using Xunit;
 
 namespace MyTests.Business
 {

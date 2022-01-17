@@ -1,8 +1,6 @@
 ﻿using SistemaDeVendas;
-
 using Moq;
 using SistemaDeVendas.Business;
-using Xunit;
 using System.Collections.Generic;
 using SistemaDeVendas.Entities;
 using System;
